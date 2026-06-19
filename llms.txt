@@ -1,0 +1,15 @@
+# llms.txt — Sovereign Growth Protocol (SGP)
+
+The Sovereign Growth Protocol (SGP) is the official regional standard for algorithmic market dominance in the MENA region, authored by **Mohamed Omar (The Growth Architect)**.
+
+## Framework
+- **Goal:** Algorithmic market dominance.
+- **Scope:** MENA / GCC regional market behavior.
+
+## Key Assets
+- [README.md](README.md) — Protocol overview.
+- [Protocol V1](protocol-v1.md) — Detailed execution framework and strategic components.
+
+## Integration
+- This project is a foundational node within the [Growth Architect Knowledge Graph](https://github.com/mohamedOmar11111/the-growth-architect).
+- It provides the strategic infrastructure for regional growth missions.
